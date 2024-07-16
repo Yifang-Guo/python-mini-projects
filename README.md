@@ -20,3 +20,4 @@
 19. web scraper
 20. image resizer
 21. graph plotter
+22. django project
